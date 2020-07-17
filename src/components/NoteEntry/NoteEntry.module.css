@@ -1,0 +1,37 @@
+.ParentEntry{
+    width: 50%;
+    position: relative;
+    margin: auto;
+    height: 200px
+}
+.Entry{
+    position: relative;
+    margin: auto;
+    width: 90%;
+    height: 150px;
+    border: 2px solid #999;
+    border-radius: 5px;
+    text-align: left;
+    color: #a767b7;
+    padding: 10px;
+    background-color: rgb(32, 32, 32)
+}
+.Entry:focus{
+    outline:none;
+}
+.Entry[placeholder]{
+    color: #888;
+    font-size: 110%;
+    font-family: "Arial"
+}
+.Close{
+    position: absolute;
+    bottom: 15px;
+    right: -8px;
+    color: #888;
+    font-size: 90%;
+    cursor:pointer;
+}
+.Close img{
+    width: 60%
+}

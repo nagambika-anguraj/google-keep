@@ -1,0 +1,32 @@
+.ParentList{
+    margin: 10px auto;
+    width: 60%;
+    height: auto;
+    padding-left: 3%
+}
+
+
+@media(max-width: 737px){
+    .ParentList{
+        padding-left: 18%;
+    }
+}
+@media(max-width: 500px){
+    .ParentList{
+        padding-left: 10%;
+    }
+}
+
+.Note{
+    color: #888;
+    width: 27%;
+    height: 100px;
+    float: left;
+    border: 1px solid #888;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 8px;
+    white-space: pre-line;
+    word-wrap: break-word;
+    overflow: hidden;
+}

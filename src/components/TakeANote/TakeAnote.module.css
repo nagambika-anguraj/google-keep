@@ -1,0 +1,10 @@
+.Note{
+    width: 40%;
+    height: 20px;
+    color: #888;
+    text-align: left;
+    padding: 10px;
+    border: 2px solid #999;
+    border-radius: 5px;
+    margin: 30px auto
+}
