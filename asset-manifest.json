@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nagambika-anguraj/google-keep.git/static/css/main.8cee7949.chunk.css",
+    "main.js": "/nagambika-anguraj/google-keep.git/static/js/main.31905cd4.chunk.js",
+    "main.js.map": "/nagambika-anguraj/google-keep.git/static/js/main.31905cd4.chunk.js.map",
+    "runtime-main.js": "/nagambika-anguraj/google-keep.git/static/js/runtime-main.683a7952.js",
+    "runtime-main.js.map": "/nagambika-anguraj/google-keep.git/static/js/runtime-main.683a7952.js.map",
+    "static/js/2.16becaa1.chunk.js": "/nagambika-anguraj/google-keep.git/static/js/2.16becaa1.chunk.js",
+    "static/js/2.16becaa1.chunk.js.map": "/nagambika-anguraj/google-keep.git/static/js/2.16becaa1.chunk.js.map",
+    "index.html": "/nagambika-anguraj/google-keep.git/index.html",
+    "precache-manifest.8ebefe69e9218d9a99529d92b3c26a53.js": "/nagambika-anguraj/google-keep.git/precache-manifest.8ebefe69e9218d9a99529d92b3c26a53.js",
+    "service-worker.js": "/nagambika-anguraj/google-keep.git/service-worker.js",
+    "static/css/main.8cee7949.chunk.css.map": "/nagambika-anguraj/google-keep.git/static/css/main.8cee7949.chunk.css.map",
+    "static/js/2.16becaa1.chunk.js.LICENSE.txt": "/nagambika-anguraj/google-keep.git/static/js/2.16becaa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683a7952.js",
+    "static/js/2.16becaa1.chunk.js",
+    "static/css/main.8cee7949.chunk.css",
+    "static/js/main.31905cd4.chunk.js"
+  ]
+}
